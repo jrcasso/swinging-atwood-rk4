@@ -1,5 +1,7 @@
 # RK4: Swinging Atwood's Machine
 
+Take a look at `project.pdf` for the physics.
+
 This is a simulation of the Swinging Atwood's Machine using a 4th-order Runge-Kutta algorithm.
 The Swinging Atwood's Machine (SAM) is an extension of the prototypical Atwood's machine where one mass is permitted an additional degree of freedom to swing.
 This particular system is an excellent example of how even simple systems can exhibit characteristics of chaos.
